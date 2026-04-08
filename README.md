@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/26573149/index.html)Aegis Bank – Landing Page
+Aegis Bank – Landing Page
 
  Description:
 
