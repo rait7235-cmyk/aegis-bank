@@ -57,7 +57,7 @@ Site disponible ici :
 - creatifs.html
 - pro.html
 - style.css
-- assets/
+- assets/app/icons/logo/photos/social
 
 
  Auteur:
