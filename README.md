@@ -46,6 +46,7 @@ Aegis Bank – Landing Page
  Déploiement
 
 Site disponible ici :
+https://lustrous-melomakarona-18c2da.netlify.app/
 
 
 
